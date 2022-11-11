@@ -1,8 +1,8 @@
 ---
 author: Axileaszervos
-title: Apple iMac G3
+title: Apple iMac 
 year: 1998 
-image_url: /images/Apple_iMac.jpg
+image_url: /images/Appleimac.jpg
 caption: 'Έχοντας δημιουργηθεί από το 1976 η apple στην προσπάθεια της να αναλογιστεί κολοσσούς στον τομέα της τεχνολογίας όπως η IBM σε συνεργασία με τον σχεδιαστή προϊόντων jony Ive κυκλοφορεί τον iMacG3, Ο iMac G3 ήταν ο πρώτος iMac που κυκλοφόρησε ποτέ, η επιτυχία του δεν οφείλετε ούτε στην τιμή του ούτε στα τεχνικά χαρακτηριστικά του άλλα στον  μοντέρνο σχεδιασμό του και στην η ευκολία που παρείχε στους χρήστες. χάρης την επιτυχία του iMac η apple ανακάλυψε την ταυτότητα της σαν εταιρία και ακολουθεί την ίδια τακτική μέχρι και σήμερα'
 license_url: 'https://commons.wikimedia.org/w/index.php?curid=123822376'
 license_text: Wikipedia
