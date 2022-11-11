@@ -8,5 +8,6 @@ caption: "Το Simatic S5-90-95 PLC είναι ένα σύστημα αυτομ�
 categories:
 - Mainframe Computers
 - Complex systems
-tags: #scada
+tags:
+  # logic units
 ---
